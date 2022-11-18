@@ -1,7 +1,6 @@
 # guitar-learning
 Learning the guitar
 
-
 ## 注意事项
 1. 手势问题
 2. 节拍节奏（练琴一定要开着节拍器）
