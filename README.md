@@ -30,7 +30,7 @@ Learning the guitar
 CAGDE系统, 解锁指板
 
 ### 练耳
-@老砍呐
+[@老砍呐 从零开始学扒歌](https://www.bilibili.com/video/BV1V7411n7zy/?spm_id_from=333.999.0.0&vd_source=52795eb28b272a66f3e81bb6f34faaa5)
 
 ### 扒谱练习
 @彭哲-Point吉他声学
