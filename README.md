@@ -30,7 +30,14 @@ Learning the guitar
 CAGDE系统, 解锁指板
 
 ### 练耳
-[@老砍呐 从零开始学扒歌](https://www.bilibili.com/video/BV1V7411n7zy/?spm_id_from=333.999.0.0&vd_source=52795eb28b272a66f3e81bb6f34faaa5)
+[从零开始学扒歌@老砍呐](https://www.bilibili.com/video/BV1V7411n7zy/?spm_id_from=333.999.0.0&vd_source=52795eb28b272a66f3e81bb6f34faaa5)
+
+[视唱练耳合集@三分钟音乐社](https://www.bilibili.com/video/BV12G4y1T75F?p=2&vd_source=52795eb28b272a66f3e81bb6f34faaa5)
+1. 模唱练习（模仿） 
+  * （向上八度）121 131 141 151 161 171 111
+  * （向下八度）171 161 151 141 131 121 111 
+  * 练习方式，先跟练模唱；然后只弹do,先唱，再弹琴检验，参照下图
+  ![Image](./assets/images/relative-pitch-01.png)
 
 ### 扒谱练习
 @彭哲-Point吉他声学
