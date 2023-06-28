@@ -42,7 +42,7 @@ CAGDE系统, 解锁指板
 
 [从零开始学扒歌@老砍呐](https://www.bilibili.com/video/BV1V7411n7zy/?spm_id_from=333.999.0.0&vd_source=52795eb28b272a66f3e81bb6f34faaa5)
 
-[视唱练耳合集@三分钟音乐社](https://www.bilibili.com/video/BV12G4y1T75F?p=2&vd_source=52795eb28b272a66f3e81bb6f34faaa5)
+[视唱练耳合集@三分钟音乐社/3-旋律音程高低判断](https://www.bilibili.com/video/BV12G4y1T75F?p=4&vd_source=52795eb28b272a66f3e81bb6f34faaa5)
 
 ### 1. 模唱练习（模仿）
 
@@ -53,6 +53,31 @@ CAGDE系统, 解锁指板
 
   练习表
   ![Image](./assets/images/relative-pitch-02.png)
+
+### 2. 全音符节奏与C大调自然音级的级进练习
+
+* 级进上行练习
+
+  ![Image](./assets/images/ear-training-01.png)
+
+* 级进下行练习
+
+  ![Image](assets/images/ear-training-02.png)
+
+* 补充练习1
+  
+  ![Image](assets/images/ear-training-03.png)
+
+* 补充练习2
+  
+  ![Image](assets/images/ear-training-04-1.png)
+
+  ![Image](assets/images/ear-training-04-2.png)
+
+* 补充练习3
+  ![Image](assets/images/ear-training-05.png)
+
+* 更多请参考《视唱练耳》相关书籍中类似"C大调级进"的例子。
 
 ## 扒谱练习
 
