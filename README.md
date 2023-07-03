@@ -44,6 +44,8 @@ CAGDE系统, 解锁指板
 
 [视唱练耳合集@三分钟音乐社/3-旋律音程高低判断](https://www.bilibili.com/video/BV12G4y1T75F?p=4&vd_source=52795eb28b272a66f3e81bb6f34faaa5)
 
+> MacOS练耳软件：Better Ears Beginner
+
 ### 1. 模唱练习（模仿）
 
 * （向上八度）121 131 141 151 161 171 111
@@ -84,3 +86,5 @@ CAGDE系统, 解锁指板
 @彭哲-Point吉他声学
 
 ## 编曲
+
+
